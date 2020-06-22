@@ -67,4 +67,4 @@ floorplan
 )
 
 # throw in a robot
-erratic( pose [ -38.5 -6 0 -180 ] name "wallrider" color "orange")
+erratic( pose [ -39 -2 0 -180 ] name "wallrider" color "orange")
